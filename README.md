@@ -84,8 +84,11 @@ Objective: Create publication-quality bar charts
 Features:
 
 Custom error bars (Standard Error of Mean)
+
 Data labels on bars (mean values + sample sizes)
+
 Adjustable bar width and custom color schemes
+
 Statistical reference lines
 
 **Value:**
