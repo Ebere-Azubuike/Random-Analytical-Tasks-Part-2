@@ -88,8 +88,7 @@ Data labels on bars (mean values + sample sizes)
 Adjustable bar width and custom color schemes
 Statistical reference lines
 
-Value:
-
-Professional presentation of group comparisons
-Uncertainty quantification through error bars
-Clear communication of sample sizes
+**Value:**
+1. Professional presentation of group comparisons
+2. Uncertainty quantification through error bars
+3. Clear communication of sample sizes
